@@ -1,0 +1,29 @@
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.exe
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.deps.json
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.runtimeconfig.json
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.dll
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.pdb
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.AssemblyInfoInputs.cache
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.AssemblyInfo.cs
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.csproj.CoreCompileInputs.cache
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.dll
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\refint\RockPaperScissorsAdventure.dll
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.pdb
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.genruntimeconfig.cache
+C:\Users\kcray\OneDrive\Desktop\Final project\RockPaperScissorsAdventure\obj\Debug\net8.0\ref\RockPaperScissorsAdventure.dll
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.exe
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.deps.json
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.runtimeconfig.json
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.dll
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\bin\Debug\net8.0\RockPaperScissorsAdventure.pdb
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.AssemblyInfoInputs.cache
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.AssemblyInfo.cs
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.csproj.CoreCompileInputs.cache
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.sourcelink.json
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.dll
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\refint\RockPaperScissorsAdventure.dll
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.pdb
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\RockPaperScissorsAdventure.genruntimeconfig.cache
+C:\Users\kcray\OneDrive\Desktop\RockPaperScissorsAdventure\obj\Debug\net8.0\ref\RockPaperScissorsAdventure.dll
